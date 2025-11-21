@@ -41,7 +41,7 @@
     "jest-canvas-mock": "^2.2.0",
     "jest-fetch-mock": "^2.1.2",
     "nyc-build-helper": "^0.0.40",
-    "postcss": "^8.4.5",
+    "postcss": "^8.5.6",
     "postcss-clean": "^1.2.2",
     "postcss-cli": "^9.1.0",
     "postcss-css-variables": "^0.18.0",
